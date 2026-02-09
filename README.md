@@ -91,13 +91,13 @@ Repository: https://github.com/USERNAME/covid19-data-analysis
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURPROFILE">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/ekendra-yadav-2aa76b256/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/YOURPROFILE">
+  <a href="https://www.kaggle.com/https://www.kaggle.com/ekendrayadav">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:youremail@email.com">
+  <a href="mailto:ekendrayadav632@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
