@@ -1,74 +1,62 @@
-# 👋 Hi, I'm Ekendra Yadav
+<h1 align="center">Ekendra Yadav</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+%7C+Data+Analysis+%7C+Python+%7C+SQL" alt="Typing Animation">
+</p>
 
-### Data Scientist | Machine Learning | Deep Learning | NLP | Data Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
 
-Transforming raw data into insights and building models that solve real-world problems.  
+## About Me
 
-![Data Science Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+I am a data scientist specializing in exploratory data analysis, predictive modeling, and machine learning. I build reproducible workflows and models, with a focus on clear methodology, validation, and actionable insights.  
+Currently expanding into advanced NLP and applied deep learning.
 
----
-
-## 🛠 Skills & Tools
-
-| Skill | Proficiency |
-|-------|------------|
-| Python | ██████████ 90% |
-| SQL | ███████ 70% |
-| Pandas | █████████ 85% |
-| NumPy | █████████ 85% |
-| Matplotlib | ████████ 75% |
-| Seaborn | ████████ 75% |
-| TensorFlow | ███████ 70% |
-| scikit-learn | █████████ 85% |
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+Nepal | Python + SQL focused | Open to collaborations.
 
 ---
 
-## 📊 Featured Projects
+## Selected Projects
 
-### 1️⃣ Movie Recommendation System
-![Movie Rec GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-- **Tech:** Python, Pandas, scikit-learn  
-- **Description:** Collaborative filtering + content-based recommendation system  
-- **Progress:** 🟩🟩🟩🟩🟩 Completed  
-- [Explore Repo](#)  
-
-### 2️⃣ IMDB Sentiment Analysis
-![NLP GIF](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)  
-- **Tech:** NLTK, TensorFlow  
-- **Description:** Classifies movie reviews as positive/negative with visualization  
-- **Progress:** 🟩🟩🟩🟩⚪ In Progress  
-- [Explore Repo](#)  
-
-### 3️⃣ COVID-19 Data Dashboard
-![Dashboard GIF](https://media.giphy.com/media/3og0IUEqAwr1T5V6xu/giphy.gif)  
-- **Tech:** Plotly, Dash  
-- **Description:** Interactive dashboard tracking COVID-19 trends globally  
-- **Progress:** 🟩🟩🟩🟩🟩 Completed  
-- [Explore Repo](#)  
-
-*(Replace `#` with your actual GitHub links and GIFs with your own outputs.)*
+### Movie Recommendation System  
+Structured a hybrid recommendation engine using content features and collaborative filtering.  
+**Tech**: Python, scikit-learn, Pandas  
+**Outcome**: Evaluated recommendation quality with similarity metrics; documented feature impact analysis.  
+🔗 https://github.com/USERNAME/movie-recommendation-system
 
 ---
 
-## 📈 GitHub Stats
-
-![Ekendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkendraYadav&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EkendraYadav&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekendra-yadav-2aa76b256/)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ekendrayadav)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekendrayadav632@gmail.com.com)  
+### IMDB Sentiment Classifier  
+Performed sentiment classification on IMDB reviews with feature extraction, model comparison, and performance analysis.  
+**Tech**: NLP preprocessing, scikit-learn models, cross-validation pipelines.  
+🔗 https://github.com/USERNAME/imdb-sentiment-analysis
 
 ---
 
-> “Data is the new oil, but insights are the refinery.”
+### COVID-19 Data Analysis Report  
+Exploratory data analysis of COVID-19 time series and demographic patterns, with visual storytelling and trend insights.  
+**Tech**: Pandas, Matplotlib, Seaborn  
+🔗 https://github.com/USERNAME/covid19-data-analysis
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/YOURPROFILE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+  <a href="mailto:youremail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
