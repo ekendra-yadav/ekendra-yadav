@@ -22,10 +22,8 @@ Transforming raw data into insights and building models that solve real-world pr
 | scikit-learn | █████████ 85% |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -72,13 +70,5 @@ Transforming raw data into insights and building models that solve real-world pr
 ---
 
 > “Data is the new oil, but insights are the refinery.”
-
----
-
-### 🔹 Pro Tips to Make it Pop:
-1. Replace GIFs with **screenshots or recordings of your project outputs** – dashboards, model predictions, visualizations.  
-2. Use **Shields.io badges** for project status, language, or framework for each repo.  
-3. Optional: add **Kaggle ranking badges** or other achievements for credibility.  
-4. Keep updating your **skills table** as you learn new tools or frameworks.  
 
 ---
