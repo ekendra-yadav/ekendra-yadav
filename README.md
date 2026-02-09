@@ -1,53 +1,88 @@
 <h1 align="center">Ekendra Yadav</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+%7C+Data+Analysis+%7C+Python+%7C+SQL" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Machine+Learning+%7C+Data+Analysis;Python+%7C+MySQL+%7C+Statistics" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-## About Me
+---
 
-I am a data scientist specializing in exploratory data analysis, predictive modeling, and machine learning. I build reproducible workflows and models, with a focus on clear methodology, validation, and actionable insights.  
-Currently expanding into advanced NLP and applied deep learning.
+## About
 
-Nepal | Python + SQL focused | Open to collaborations.
+I am a data scientist focused on exploratory data analysis, feature engineering, and machine learning modeling using real world datasets.  
+My work emphasizes reproducible analysis, clear methodology, and practical insights that support decision making.
+
+Location: Nepal  
+Primary stack: Python, MySQL
+
+---
+
+## Technical Skills
+
+**Languages and Databases**
+- Python
+- MySQL
+
+**Data Analysis**
+- Pandas, NumPy
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+
+**Machine Learning**
+- scikit-learn
+- Regression and classification
+- Model evaluation and validation
+- Introductory NLP pipelines
+
+**Visualization**
+- Matplotlib
+- Seaborn
 
 ---
 
 ## Selected Projects
 
-### Movie Recommendation System  
-Structured a hybrid recommendation engine using content features and collaborative filtering.  
-**Tech**: Python, scikit-learn, Pandas  
-**Outcome**: Evaluated recommendation quality with similarity metrics; documented feature impact analysis.  
-🔗 https://github.com/USERNAME/movie-recommendation-system
+### Movie Recommendation System
+Hybrid recommendation system using content based and collaborative filtering techniques.  
+Focused on similarity modeling, feature extraction, and evaluation strategy.
+
+Tech: Python, Pandas, scikit-learn  
+Repository: https://github.com/USERNAME/movie-recommendation-system
 
 ---
 
-### IMDB Sentiment Classifier  
-Performed sentiment classification on IMDB reviews with feature extraction, model comparison, and performance analysis.  
-**Tech**: NLP preprocessing, scikit-learn models, cross-validation pipelines.  
-🔗 https://github.com/USERNAME/imdb-sentiment-analysis
+### IMDB Sentiment Analysis
+Sentiment classification of movie reviews using NLP preprocessing and machine learning models.  
+Includes text normalization, vectorization, and comparative model evaluation.
+
+Tech: Python, scikit-learn, NLP  
+Repository: https://github.com/USERNAME/imdb-sentiment-analysis
 
 ---
 
-### COVID-19 Data Analysis Report  
-Exploratory data analysis of COVID-19 time series and demographic patterns, with visual storytelling and trend insights.  
-**Tech**: Pandas, Matplotlib, Seaborn  
-🔗 https://github.com/USERNAME/covid19-data-analysis
+### COVID-19 Data Analysis
+Exploratory analysis of global COVID-19 datasets with emphasis on trends, data quality, and visual storytelling.
+
+Tech: Pandas, Matplotlib, Seaborn  
+Repository: https://github.com/USERNAME/covid19-data-analysis
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
 </p>
 
@@ -56,7 +91,13 @@ Exploratory data analysis of COVID-19 time series and demographic patterns, with
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/YOURPROFILE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
-  <a href="mailto:youremail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/YOURPROFILE">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
