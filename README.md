@@ -91,8 +91,6 @@ Repository: https://github.com/USERNAME/covid19-data-analysis
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekendra-yadav&hide_border=true&area=true" />
 </p>
 
-
-
 ---
 
 ## Connect
