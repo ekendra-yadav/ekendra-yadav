@@ -79,11 +79,11 @@ Repository: https://github.com/USERNAME/covid19-data-analysis
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekendra-yadav&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ekendra-yadav&show_icons=true&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekendra-yadav&hide_border=true" />
+  <img src="https://readme-stats-fast.vercel.app/streak?user=ekendra-yadav&hide_border=true" />
 </p>
 
 <p align="center">
