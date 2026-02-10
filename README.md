@@ -83,7 +83,7 @@ Repository: https://github.com/USERNAME/covid19-data-analysis
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/streak?user=ekendra-yadav&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
