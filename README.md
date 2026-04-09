@@ -62,7 +62,7 @@ Repository: https://github.com/USERNAME/movie-recommendation-system
 Utilizing the California Housing dataset, this project employs a Linear Regression model to forecast real estate prices. The process included extensive Exploratory Data Analysis (EDA) to isolate key drivers such as median income and geographical location. The model achieved high precision, reaching a Mean Absolute Percentage Error of 2.40% and an MSE of 0.3889.
 
 Tech: Python, scikit-learn, NLP  
-Repository: https://github.com/USERNAME/imdb-sentiment-analysis
+Repository: [https://github.com/USERNAME/imdb-sentiment-analysis](https://github.com/ekendra-yadav/CaliforniaHousePricePrediction)
 
 ---
 
