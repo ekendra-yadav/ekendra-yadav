@@ -86,7 +86,7 @@ Repository: https://github.com/ekendra-yadav/CaliforniaHousePricePrediction
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/ekendra-yadav-2aa76b256/)">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ekendra-yadav-2aa76b256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/https://www.kaggle.com/ekendrayadav">
