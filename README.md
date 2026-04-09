@@ -54,7 +54,7 @@ Primary stack: Python, MySQL
 This end-to-end machine learning system predicts taxi fares by analyzing trip data including coordinates, passenger counts, and timestamps. The workflow involved rigorous data cleaning, outlier removal, and the engineering of distance and time-based features to optimize regression model performance. To make the model accessible, I built an interactive user interface using Streamlit and deployed the final application to Hugging Face Spaces for live use.
 
 Tech: Python, Pandas, scikit-learn  
-Repository: https://github.com/USERNAME/movie-recommendation-system
+Repository: [https://github.com/USERNAME/movie-recommendation-system](https://github.com/ekendra-yadav/Yellow-Taxi-Trip-Records-Data-Dictionary)
 
 ---
 
