@@ -54,7 +54,7 @@ Primary stack: Python, MySQL
 This end-to-end machine learning system predicts taxi fares by analyzing trip data including coordinates, passenger counts, and timestamps. The workflow involved rigorous data cleaning, outlier removal, and the engineering of distance and time-based features to optimize regression model performance. To make the model accessible, I built an interactive user interface using Streamlit and deployed the final application to Hugging Face Spaces for live use.
 
 Tech: Python, Pandas, scikit-learn  
-Repository: [https://github.com/USERNAME/movie-recommendation-system](https://github.com/ekendra-yadav/Yellow-Taxi-Trip-Records-Data-Dictionary)
+Repository: https://github.com/ekendra-yadav/Yellow-Taxi-Trip-Records-Data-Dictionary
 
 ---
 
@@ -62,15 +62,7 @@ Repository: [https://github.com/USERNAME/movie-recommendation-system](https://gi
 Utilizing the California Housing dataset, this project employs a Linear Regression model to forecast real estate prices. The process included extensive Exploratory Data Analysis (EDA) to isolate key drivers such as median income and geographical location. The model achieved high precision, reaching a Mean Absolute Percentage Error of 2.40% and an MSE of 0.3889.
 
 Tech: Python, scikit-learn, NLP  
-Repository: [https://github.com/USERNAME/imdb-sentiment-analysis](https://github.com/ekendra-yadav/CaliforniaHousePricePrediction)
-
----
-
-### COVID-19 Data Analysis
-Exploratory analysis of global COVID-19 datasets with emphasis on trends, data quality, and visual storytelling.
-
-Tech: Pandas, Matplotlib, Seaborn  
-Repository: https://github.com/USERNAME/covid19-data-analysis
+Repository: https://github.com/ekendra-yadav/CaliforniaHousePricePrediction
 
 ---
 
