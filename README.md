@@ -50,18 +50,16 @@ Primary stack: Python, MySQL
 
 ## Selected Projects
 
-### Movie Recommendation System
-Hybrid recommendation system using content based and collaborative filtering techniques.  
-Focused on similarity modeling, feature extraction, and evaluation strategy.
+### Taxi Fare Prediction System (End-to-End ML Project)
+This end-to-end machine learning system predicts taxi fares by analyzing trip data including coordinates, passenger counts, and timestamps. The workflow involved rigorous data cleaning, outlier removal, and the engineering of distance and time-based features to optimize regression model performance. To make the model accessible, I built an interactive user interface using Streamlit and deployed the final application to Hugging Face Spaces for live use.
 
 Tech: Python, Pandas, scikit-learn  
 Repository: https://github.com/USERNAME/movie-recommendation-system
 
 ---
 
-### IMDB Sentiment Analysis
-Sentiment classification of movie reviews using NLP preprocessing and machine learning models.  
-Includes text normalization, vectorization, and comparative model evaluation.
+### California House Price Prediction
+Utilizing the California Housing dataset, this project employs a Linear Regression model to forecast real estate prices. The process included extensive Exploratory Data Analysis (EDA) to isolate key drivers such as median income and geographical location. The model achieved high precision, reaching a Mean Absolute Percentage Error of 2.40% and an MSE of 0.3889.
 
 Tech: Python, scikit-learn, NLP  
 Repository: https://github.com/USERNAME/imdb-sentiment-analysis
